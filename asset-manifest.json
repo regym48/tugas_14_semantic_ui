@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/tugas_14_semantic_ui/static/js/main.f6945c2e.chunk.js",
+    "main.js.map": "/tugas_14_semantic_ui/static/js/main.f6945c2e.chunk.js.map",
+    "runtime-main.js": "/tugas_14_semantic_ui/static/js/runtime-main.afdbf59c.js",
+    "runtime-main.js.map": "/tugas_14_semantic_ui/static/js/runtime-main.afdbf59c.js.map",
+    "static/css/2.85c87be7.chunk.css": "/tugas_14_semantic_ui/static/css/2.85c87be7.chunk.css",
+    "static/js/2.08b6eced.chunk.js": "/tugas_14_semantic_ui/static/js/2.08b6eced.chunk.js",
+    "static/js/2.08b6eced.chunk.js.map": "/tugas_14_semantic_ui/static/js/2.08b6eced.chunk.js.map",
+    "static/js/3.f1d8d987.chunk.js": "/tugas_14_semantic_ui/static/js/3.f1d8d987.chunk.js",
+    "static/js/3.f1d8d987.chunk.js.map": "/tugas_14_semantic_ui/static/js/3.f1d8d987.chunk.js.map",
+    "index.html": "/tugas_14_semantic_ui/index.html",
+    "static/css/2.85c87be7.chunk.css.map": "/tugas_14_semantic_ui/static/css/2.85c87be7.chunk.css.map",
+    "static/js/2.08b6eced.chunk.js.LICENSE.txt": "/tugas_14_semantic_ui/static/js/2.08b6eced.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/tugas_14_semantic_ui/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afdbf59c.js",
+    "static/css/2.85c87be7.chunk.css",
+    "static/js/2.08b6eced.chunk.js",
+    "static/js/main.f6945c2e.chunk.js"
+  ]
+}
